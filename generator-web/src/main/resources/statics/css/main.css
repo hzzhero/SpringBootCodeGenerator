@@ -53,3 +53,6 @@ tbody > tr > th {font-weight: normal; }
 	/*width:550px;*/
     padding-top:20px;
 }
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+     background-color: #fff;
+}

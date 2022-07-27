@@ -47,10 +47,10 @@ const vm = new Vue({
 				returnUtilFailure: "${(value.returnUtilFailure)!!}",
 
 				isPackageType: true,
-				isSwagger: false,
-				isAutoImport: false,
-				isWithPackage: false,
-				isComment: true,
+				isSwagger: true,
+				isAutoImport: true,
+				isWithPackage: true,
+				isComment: false,
 				isLombok: true,
 
 				ignorePrefix:"sys_",
